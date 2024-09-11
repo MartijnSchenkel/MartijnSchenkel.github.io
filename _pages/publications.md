@@ -11,7 +11,7 @@ $ signifies BSc/MSc student authorship; * signifies equal contributions.
 
 ## Under review:
 <p style="margin-left: 40px; text-indent: -40px;">
-2. Schenkel, M.A., Patten, M.M. & Ågren, J.A. Quantifying internal conflicts and their threats to organismal form and fitness. <a href="https://doi.org/10.1101/2024.02.05.578856"> preprint link</a>.
+2. </b>Schenkel, M.A.</b>, Patten, M.M. & Ågren, J.A. Quantifying internal conflicts and their threats to organismal form and fitness. <a href="https://doi.org/10.1101/2024.02.05.578856"> preprint link</a>.
 </p>
 <p style="margin-left: 40px; text-indent: -40px;">
 1. <b>Schenkel, M.A.</b>, Ross, L. & Wedell, N. Selfish genetic elements and the evolution of sex determination and inheritance mechanisms. In: J.A. Ågren & M.M. Patten (Eds.), <i>The Paradox of the Organism: Adaptation and Internal Conflict</i>. Cambridge, MA, USA; Harvard University Press.
