@@ -25,10 +25,10 @@ author:
   name             : "Martijn Schenkel"
   pronouns         : # example: "she/her"  
   bio              : "Evolutionary biologist"
-  location         : "Groningen, The Netherlands"
-  employer         : "University of Groningen"
+  location         : # "Groningen, The Netherlands"
+  employer         : # "University of Groningen"
   uri              : # URL
-  email            : "m.a.schenkel@rug.nl" 
+  email            : "maschenkel@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
