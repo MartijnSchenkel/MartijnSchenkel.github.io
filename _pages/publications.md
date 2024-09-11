@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-# signifies BSc/MSc student authorship; * signifies equal contributions.
+$ signifies BSc/MSc student authorship; * signifies equal contributions.
 
 ## Under review:
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-8. Li, X., Visser, S., Son, J.H., Geuverink, E., Kıvanç, E.N.#, Wu, Y., Schmeing, S., Pippel, M., Anvar, S., <b>Schenkel, M.A.</b>, Marec, F., Robinson, M., Meisel, R., Wimmer, E., van de Zande, L., Bopp, D. & Beukeboom, L.W. (2024). Divergent evolution of male-determining loci on different proto-Y chromosomes of the housefly. <i>Nature Communications</i> <b>15</b>: 5984. <a href="https://doi.org/10.1038/s41467-024-50390-1">link</a>.
+8. Li, X., Visser, S., Son, J.H., Geuverink, E., Kıvanç, E.N.$, Wu, Y., Schmeing, S., Pippel, M., Anvar, S., <b>Schenkel, M.A.</b>, Marec, F., Robinson, M., Meisel, R., Wimmer, E., van de Zande, L., Bopp, D. & Beukeboom, L.W. (2024). Divergent evolution of male-determining loci on different proto-Y chromosomes of the housefly. <i>Nature Communications</i> <b>15</b>: 5984. <a href="https://doi.org/10.1038/s41467-024-50390-1">link</a>.
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -52,15 +52,15 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-1. Parratt, S.R., Frost, C.L., <b>Schenkel, M.A.#</b>, Rice, A., Hurst, G.D.D.* & King, K.C.* (2016). Superparasitism drives heritable symbiont dynamics and host sex ratio in a wasp. <i>PLoS Pathogens</i> <b>12(6)</b>: e1005629.  <a href="https://doi.org/10.1371/journal.ppat.1005629">link</a>.
+1. Parratt, S.R., Frost, C.L., <b>Schenkel, M.A.$</b>, Rice, A., Hurst, G.D.D.* & King, K.C.* (2016). Superparasitism drives heritable symbiont dynamics and host sex ratio in a wasp. <i>PLoS Pathogens</i> <b>12(6)</b>: e1005629.  <a href="https://doi.org/10.1371/journal.ppat.1005629">link</a>.
 </p>
 
 ## Book chapters:
 <p style="margin-left: 40px; text-indent: -40px;">
-  2. Kikodze, E.# & <b>Schenkel, M.A.</b> (in press). Sex determination. In: C. Russo & J.B. Wolf (Eds.), <i>Encyclopedia of Evolutionary Biology</i> (2nd ed.). London, UK; Academic Press.
+  2. Kikodze, E.$ & <b>Schenkel, M.A.</b> (in press). Sex determination. In: C. Russo & J.B. Wolf (Eds.), <i>Encyclopedia of Evolutionary Biology</i> (2nd ed.). London, UK; Academic Press.
 </p>
 <p style="margin-left: 40px; text-indent: -40px;">
-  1. <b>Schenkel, M.A.#</b> & Beukeboom, L.W. (2016). Sex chromosome evolution: birth, maturation, decay and rebirth. In: R.M. Kliman (Ed.), <i>Encyclopedia of Evolutionary Biology</i> (1st ed.), vol. 4, pp. 72-80. London, UK; Academic Press. <a href="https://doi.org/10.1016/B978-0-12-800049-6.00147-5">link</a>.
+  1. <b>Schenkel, M.A.$</b> & Beukeboom, L.W. (2016). Sex chromosome evolution: birth, maturation, decay and rebirth. In: R.M. Kliman (Ed.), <i>Encyclopedia of Evolutionary Biology</i> (1st ed.), vol. 4, pp. 72-80. London, UK; Academic Press. <a href="https://doi.org/10.1016/B978-0-12-800049-6.00147-5">link</a>.
 </p>
   
 ## Miscellaneous:
