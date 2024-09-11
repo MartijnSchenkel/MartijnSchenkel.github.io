@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Martijn Schenkel"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Martijn Schenkel"
 description              : &description "Evolutionary biologist"
