@@ -17,7 +17,7 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-7. ter Haar, S.#, Billeter, J.-C., Francuski, L., Beukeboom, L.W.* & <b>Schenkel, M.A.*</b> (2023). Adult sex ratios affect mating behaviour in the common housefly <i>Musca domestica<i> L. (Diptera; Muscidae). <i>Behaviour</i> <b>160</b>: 1329-1357. [<a href="https://doi.org/10.1163/1568539X-bja10241">LINK</a>].
+7. ter Haar, S.#, Billeter, J.-C., Francuski, L., Beukeboom, L.W.* & <b>Schenkel, M.A.*</b> (2023). Adult sex ratios affect mating behaviour in the common housefly <i>Musca domestica</i> L. (Diptera; Muscidae). <i>Behaviour</i> <b>160</b>: 1329-1357. [<a href="https://doi.org/10.1163/1568539X-bja10241">LINK</a>].
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
