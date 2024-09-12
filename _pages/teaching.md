@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Courses
+
 | Name | Level | Size | Involvement | Year |
 |---|---|---|---|---|
 | [Advanced Topics in Evolution](https://www.coursicle.com/georgetown/courses/BIOL/4503/) | Graduate | 5-10 | Guest lecturer  | 2022/'23-2024/'25 |
@@ -20,6 +21,7 @@ author_profile: true
 | [Genes & Evolution](https://ocasys.rug.nl/current/catalog/course/WBBY004-05) | BSc | 70 | Practical assistant | 2016/'17 |
 
 ## Mentorship
+
 | Name | Level | Title | Year |
 |---|---|---|---|
 | Naomi Greenberg | Under-graduate | Remote-controlled meiotic drive of sex chromosomes | 2023/'24 |
@@ -31,6 +33,7 @@ author_profile: true
 | Martine van Beem  | BSc | Maintenance of life history variation in _Drosophila melanogaster_ | 2015/'16 |
 
 ## Pedagogical training & self-development:
+
 | Name | Level | Description | Year |
 |---|---|---|---|
 | [Open Pedagogy](https://libcal.rug.nl/calendar/workshops/op28Nov?f=h) | Post-doctoral | Participant in workshop on open pedagogy and developing open education resources | 2023/'24 |
