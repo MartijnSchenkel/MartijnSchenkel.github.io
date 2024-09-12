@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses
+### Courses
 
 | Name | Level | Size | Involvement | Year |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ author_profile: true
 | [Ecological & Evolutionary Genetics Research](https://www.rug.nl/ocasys/rug/vak/show?code=WBLS14002) | BSc | 2 | Research project supervisor | 2018/'19, 2017/'18 |
 | [Genes & Evolution](https://ocasys.rug.nl/current/catalog/course/WBBY004-05) | BSc | 70 | Practical assistant | 2016/'17 |
 
-## Mentorship
+### Mentorship
 
 | Name | Level | Title | Year |
 |---|---|---|---|
@@ -32,7 +32,7 @@ author_profile: true
 | Julia Camacho Garcia | MSc | Artificial selection for female fitness in houseflies | 2016/'17 |
 | Martine van Beem  | BSc | Maintenance of life history variation in _Drosophila melanogaster_ | 2015/'16 |
 
-## Pedagogical training & self-development:
+### Pedagogical training & self-development:
 
 | Name | Level | Description | Year |
 |---|---|---|---|
