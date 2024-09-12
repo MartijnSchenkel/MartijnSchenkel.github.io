@@ -9,7 +9,7 @@ redirect_from:
 
 $ signifies BSc/MSc student authorship; * signifies equal contributions.
 
-## Under review:
+### Under review:
 <p style="margin-left: 40px; text-indent: -40px;">
 2. <b>Schenkel, M.A.</b>, Patten, M.M. & Ågren, J.A. Quantifying internal conflicts and their threats to organismal form and fitness. <a href="https://doi.org/10.1101/2024.02.05.578856"> preprint link</a>.
 </p>
@@ -17,7 +17,7 @@ $ signifies BSc/MSc student authorship; * signifies equal contributions.
 1. <b>Schenkel, M.A.</b>, Ross, L. & Wedell, N. Selfish genetic elements and the evolution of sex determination and inheritance mechanisms. In: J.A. Ågren & M.M. Patten (Eds.), <i>The Paradox of the Organism: Adaptation and Internal Conflict</i>. Cambridge, MA, USA; Harvard University Press.
 </p>
 
-## Journal articles:
+### Journal articles:
 <p style="margin-left: 40px; text-indent: -40px;">
 9. <b>Schenkel, M.A.</b> (2024; in press). Transitions in sex determination mechanisms through parental and sexual antagonism. <i>Heredity</i> <b>vol</b>: pp-pp. <a href="https://doi.org/10.1038/s41437-024-00717-x">link</a>.
 </p>
@@ -54,7 +54,7 @@ $ signifies BSc/MSc student authorship; * signifies equal contributions.
 1. Parratt, S.R., Frost, C.L., <b>Schenkel, M.A.$</b>, Rice, A., Hurst, G.D.D.* & King, K.C.* (2016). Superparasitism drives heritable symbiont dynamics and host sex ratio in a wasp. <i>PLoS Pathogens</i> <b>12(6)</b>: e1005629.  <a href="https://doi.org/10.1371/journal.ppat.1005629">link</a>.
 </p>
 
-## Book chapters:
+### Book chapters:
 <p style="margin-left: 40px; text-indent: -40px;">
   2. Kikodze, E.$ & <b>Schenkel, M.A.</b> (in press). Sex determination. In: C. Russo & J.B. Wolf (Eds.), <i>Encyclopedia of Evolutionary Biology</i> (2nd ed.). London, UK; Academic Press.
 </p>
@@ -62,7 +62,7 @@ $ signifies BSc/MSc student authorship; * signifies equal contributions.
   1. <b>Schenkel, M.A.$</b> & Beukeboom, L.W. (2016). Sex chromosome evolution: birth, maturation, decay and rebirth. In: R.M. Kliman (Ed.), <i>Encyclopedia of Evolutionary Biology</i> (1st ed.), vol. 4, pp. 72-80. London, UK; Academic Press. <a href="https://doi.org/10.1016/B978-0-12-800049-6.00147-5">link</a>.
 </p>
   
-## Miscellaneous:
+### Miscellaneous:
 <p style="margin-left: 40px; text-indent: -40px;">
   2. Chen, F.Y., <b>Schenkel, M.A.</b>, van de Zande, L. & Beukeboom, L.W. (2021). Absence of complementary sex determination in two Leptopilina species (Figitidae, Hymenoptera). Chapter in PhD thesis of Fangying Chen. University of Groningen; Groningen, the Netherlands. <a href="https://doi.org/10.33612/diss.174044388">link</a>.
 </p>
