@@ -12,8 +12,8 @@ I study evolutionary biology, particularly aiming to understand the fundamental 
 Above all, I am interested in the intersection between these two questions - how can we understand evolutionary change, given that the principles by which it occurs and the agents it involves can be so variable? 
 
 
-## Organismality in light of internal conflicts
+### Organismality in light of internal conflicts
 My research currently focuses on the capacity for internal conflicts to arise in different types of organisms. That is, how do differences in the reproductive mode, developmental programs, and life cycles of organisms contribute to internal conflicts and the selfish elements that they engender? This builds on my previous work on the paradox of the organism, the observation that organisms persist as functional, seemingly-purposive agents despite the capacity for selfish genetic elements and selfish cell lineages to tear them apart from within. 
 
-## Sex and evolution
+### Sex and evolution
 I have previously worked on the evolution of sex determination mechanisms, i.e. the manner in which the genetic cues and cascades that dictate an individual's sexual identity undergo evolutionary modification and/or replacement. In extension of this, I have done some work on the evolution of sex chromosomes, and the evolutionary dynamics of interlocus and intralocus sexual conflict. Given the myriad ways in which sex affects evolutionary change, there are a great deal of related topics that interest me.
