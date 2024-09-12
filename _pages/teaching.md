@@ -24,7 +24,7 @@ author_profile: true
 
 | Name | Level | Title | Year |
 |---|---|---|---|
-| Naomi Greenberg | Under-graduate | Remote-controlled meiotic drive of sex chromosomes | 2023/'24 |
+| Naomi Greenberg | Undergraduate | Remote-controlled meiotic drive of sex chromosomes | 2023/'24 |
 | Ekaterine (Kato) Kikodze | MSc | Sex determination | 2023/'24 |
 | Femke Noorman | BSc | Parental antagonism as a driver of transitions in sex determination | 2022/'23 |
 | Stefan ter Haar | MSc | Adult sex ratios affect mating behaviour in the common housefly _Musca domestica_ L. (Diptera; Muscidae) | 2021-2023 |
